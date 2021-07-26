@@ -5,6 +5,12 @@ Hey, I'm Bryan 👋🏽 - just a guy who lost his way and ended up in Finance. C
 - I love building things and enjoy the problem solving that comes along with that
 - I'm naturally curious and love understanding how things work
 
+## Projects
+
+- A kanban style study tracking application:
+  * Repo: https://github.com/bryanurizar/myMetrics
+  * Live site: https://mymetrics.com
+
 ## Technologies I've Used
 
 - Frontend: HTML, CSS, JavaScript, React
@@ -12,12 +18,6 @@ Hey, I'm Bryan 👋🏽 - just a guy who lost his way and ended up in Finance. C
 - Tools: Git, GitHub, VS Code, Postman
 - Familiar: Python
 - Learning: TypeScript & C
-
-## Projects
-
-- A kanban style study tracking application:
-  * Repo: https://github.com/bryanurizar/myMetrics
-  * Live site: https://mymetrics.com
 
 ## Get In Touch
 Email: bryan.urizar@outlook.com
