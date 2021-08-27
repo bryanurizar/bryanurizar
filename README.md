@@ -11,6 +11,9 @@ Hey, I'm Bryan 👋🏽 - just a guy who lost his way and ended up in Finance. C
   * Repo: https://github.com/bryanurizar/myMetrics
   * Live site: Not yet available
 
+- Superstore (WIP)
+  * Repo: https://github.com/bryanurizar/superstore
+
 ## Technologies I've Used
 
 - Frontend: HTML, CSS, JavaScript, React (WIP)
