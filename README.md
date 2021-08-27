@@ -9,11 +9,11 @@ Hey, I'm Bryan 👋🏽 - just a guy who lost his way and ended up in Finance. C
 
 - A kanban style study tracking application:
   * Repo: https://github.com/bryanurizar/myMetrics
-  * Live site: https://mymetrics.com
+  * Live site: Not yet available
 
 ## Technologies I've Used
 
-- Frontend: HTML, CSS, JavaScript, React
+- Frontend: HTML, CSS, JavaScript, React (WIP)
 - Backend: NodeJS, ExpressJS, Postgres, MySQL, SQL, MongoDB
 - Tools: Git, GitHub, VS Code, Postman
 - Familiar: Python
