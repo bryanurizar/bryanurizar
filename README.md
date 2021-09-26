@@ -20,7 +20,7 @@ Hey, I'm Bryan 👋🏽 - just a guy who lost his way and ended up in Finance. C
 - Frontend: HTML, CSS, JavaScript, EJS, React (WIP)
 - Backend: NodeJS, ExpressJS, PassportJS/Google OAuth, Postgres, MySQL, SQL, MongoDB
 - Hosting/Deployment: Digital Ocean/Ubuntu 20.04, DNS, UFW, PM2, NGINX, Let's Encrypt/Certbot
-- Tools: Git, GitHub, VS Code, Postman
+- Tools: Git, GitHub, VS Code, Postman, Bash/Zsh, SSH
 - Familiar: Python
 - Learning: TypeScript & C
 
