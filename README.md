@@ -17,14 +17,12 @@ Hey, I'm Bryan 👋🏽 - just a guy who lost his way and ended up in Finance. C
 
 ## Technologies I've Used
 
-- Frontend: HTML, CSS, JavaScript, React (WIP)
-- Backend: NodeJS, ExpressJS, Postgres, MySQL, SQL, MongoDB
+- Frontend: HTML, CSS, JavaScript, EJS, React (WIP)
+- Backend: NodeJS, ExpressJS, PassportJS/Google OAuth, Postgres, MySQL, SQL, MongoDB
 - Tools: Git, GitHub, VS Code, Postman
-- Hosting: Digital Ocean (Ubuntu 20.04)
-- Other: PM2, Nginx, Let's Encrypt/Certbot, Google OAuth
+- Hosting/Deployment: Digital Ocean/Ubuntu 20.04, DNS, UFW, PM2, NGINX, Let's Encrypt/Certbot
 - Familiar: Python
 - Learning: TypeScript & C
-- 
 
 ## Get In Touch
 Email: bryan.urizar@outlook.com
