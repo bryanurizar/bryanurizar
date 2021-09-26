@@ -9,18 +9,22 @@ Hey, I'm Bryan 👋🏽 - just a guy who lost his way and ended up in Finance. C
 
 - A kanban style study tracking application:
   * Repo: https://github.com/bryanurizar/myMetrics
-  * Live site: Not yet available
+  * Live site: https://mymetrics.dev
 
 - Superstore (WIP)
   * Repo: https://github.com/bryanurizar/superstore
+  * Live site: TBC
 
 ## Technologies I've Used
 
 - Frontend: HTML, CSS, JavaScript, React (WIP)
 - Backend: NodeJS, ExpressJS, Postgres, MySQL, SQL, MongoDB
 - Tools: Git, GitHub, VS Code, Postman
+- Hosting: Digital Ocean (Ubuntu 20.04)
+- Other: PM2, Nginx, Let's Encrypt/Certbot, Google OAuth
 - Familiar: Python
 - Learning: TypeScript & C
+- 
 
 ## Get In Touch
 Email: bryan.urizar@outlook.com
